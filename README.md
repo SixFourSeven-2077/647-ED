@@ -18,3 +18,6 @@ python ./647-ED.py
 ```
 
 Follow the instructions to encrypt your files
+
+## Warning
+Avoid closing the script during a process! If you do so, you may lose files due to data corruption
